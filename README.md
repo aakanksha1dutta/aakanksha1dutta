@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aakanksha (ah-kank-sha)
 
-                                        ❄🌷 Season of Love ❤️
+    🌷 Season of Love ❤️
 - 💜 Technical Interests: SWE in Data/AI/ML, Machine Learning, Preditive Analytics (anything quantitative is fun!)
 - 🪻 Personal Interests: Dancing, Badminton, and acting.
 - 👾 How to reach me: adutta5@u.rochester.edu
